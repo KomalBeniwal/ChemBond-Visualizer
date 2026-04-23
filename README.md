@@ -74,19 +74,19 @@ screenshots/
 ## 📸 Screenshots
 
 ### Main Interface
-![Main](screenshots/main.png)
+![Main](screenshots/main_start.png)
 
 ### Data Export / Output
-![Export](screenshots/export.png)
+![Export](screenshots/export_csv.png)
 
 ### Database View
-![Database](screenshots/sql.png)
+![Database](screenshots/database_table.png)
 
 ### Lewis Structure
-![Lewis](screenshots/lewis.png)
+![Lewis](screenshots/lewis_structure.png)
 
 ### 3D Molecular Model
-![3D](screenshots/3d.png)
+![3D](screenshots/molecular_3d.png)
 
 ---
 
