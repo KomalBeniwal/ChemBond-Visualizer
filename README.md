@@ -65,8 +65,11 @@ It uses a MySQL database to store compound data and provides multiple visualizat
 ## 📁 Project Structure
 
 main.py
+
 export_to_csv.py
+
 database.sql
+
 screenshots/
 
 ---
