@@ -70,7 +70,7 @@ export_to_csv.py
 
 database.sql
 
-screenshots/
+screenshots
 
 ---
 
